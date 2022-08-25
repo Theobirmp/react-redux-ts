@@ -1,0 +1,5 @@
+export const enum ACTIONS{
+    WIDTHDRAW='WITHDRAW',
+    DEPOSIT='DEPOSIT',
+    BANKRUPT='BANKRUPT'
+}
